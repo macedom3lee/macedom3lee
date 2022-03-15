@@ -1,7 +1,7 @@
 ### Olá pessoal 👋
 Meu nome é <strong>Marlon Martins Macedo</stong><b>
 
-- 👓 Hobbies: Curto jogar, amo a leitura bíblica, assisto séries e gosto de aprender sobre programação!
+- 🎮 Hobbies: Curto jogar, amo a leitura bíblica, assisto séries e gosto de aprender sobre programação!
 - 🎓 Formação: Participante da 7ª Edição do Programa Starter Full Stack Web Developer na Growdev e estudante de Engenharia de Software na Uninter
 - 👔 Experiência profissionais: Estou atualmente trabalhando na empresa Panvel como assistente de atendimento
 - 💻 Tecnologias favorita: HTML, CSS, JavaScript e Phyton
